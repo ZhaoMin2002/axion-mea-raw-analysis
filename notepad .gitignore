@@ -1,0 +1,42 @@
+# Git internals from nested repos
+.git/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Python package metadata
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+conda-env/
+
+# Raw and large data
+*.raw
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.bin
+*.dat
+
+# Generated outputs
+windows/
+outputs/
+results/
+cache/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
