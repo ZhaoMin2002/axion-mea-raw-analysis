@@ -3,3 +3,4 @@ scipy >= 1.8.1
 neurodsp >= 2.1.0
 matplotlib >= 3.5.2
 tqdm >= 4.64.0
+fooof == 1.1.1
